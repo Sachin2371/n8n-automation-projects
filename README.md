@@ -3,7 +3,7 @@ Automation &amp; AI projects built with n8n, Groq AI, and JavaScript
 
 # 🔔 NSUT Notice Bot
 
-Automatically fetches notices from NSUT website 
+Automatically fetches NEW notices from NSUT website(https://www.imsnsit.org/imsnsit/)
 and sends them to a Telegram channel every 30 minutes!
 
 ## 🚀 Live Channel
